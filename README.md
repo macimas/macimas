@@ -1,2 +1,1 @@
-![image](https://user-images.githubusercontent.com/42163944/130377496-ceb45131-2377-4f12-b1cb-9e3051cddb9e.png)
-amogus
+![wut](https://user-images.githubusercontent.com/42163944/131086547-c3346851-2e43-474b-b77c-066318dcc32d.png)
