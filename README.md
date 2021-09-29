@@ -1,1 +1,1 @@
-![wut](https://user-images.githubusercontent.com/42163944/131086547-c3346851-2e43-474b-b77c-066318dcc32d.png)
+![goremin is staring at you](https://user-images.githubusercontent.com/42163944/135187033-958cf274-1373-4940-bade-60622ba74a71.jpeg)
