@@ -1,6 +1,6 @@
-# The Guy Who Did It (a dumb story i made back in like 2018)
+# The Guy Who Did It
 
-Some guy named Steve said “I should go to a eating contest so i can have a new iPhone X that Apple created.”, And so he did.
+Some guy named Steve said “I should go to a eating contest so i can have a new **iPhone** X that Apple created.”, And so he did.
 
 He signed up for the application.
 All of the people who signed for the eating contest got to a meeting with the host of the eating contest.
@@ -26,3 +26,6 @@ There were no people…
 He was full of stress. And he silently slept into a coma…
 
 The End.
+
+> What have i done lol
+― macimas from 2018
