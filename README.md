@@ -27,5 +27,6 @@ He was full of stress. And he silently slept into a coma…
 
 The End.
 
-> What have i done lol
+
+`What have i done lol`
 ― macimas from 2018
