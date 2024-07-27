@@ -1,5 +1,5 @@
 body
-{ background-image: url("./earth.png") }
+{ background-image: url("https://raw.githubusercontent.com/macimas/macimas/a55cb0f878e5821e81031fea552c0cd1e8f5adde/earth.png") }
 
 .avatar-user {
 	animation-name: spin;
@@ -13,28 +13,28 @@ body
 	to { transform: rotate(360deg) }
 }
 
-[data-color-mode="light"] .application-main .Box,
-[data-color-mode="light"] .avatar-user,
-[data-color-mode="light"] .js-yearly-contributions > div > div,
-[data-color-mode="light"] .js-form-toggle-target input,
-[data-color-mode="light"] .js-profile-timeline-year-list .filter-list,
-[data-color-mode="light"] .contribution-activity-listing,
-[data-color-mode="light"] .contribution-activity-show-more,
-[data-color-mode="light"] #user-profile-frame div.flex-items-start input,
-[data-color-mode="light"] #user-profile-frame div.flex-items-start summary,
-[data-color-mode="light"] #user-repositories-list
+.light-mode .application-main .Box,
+.light-mode .avatar-user,
+.light-mode .js-yearly-contributions > div > div,
+.light-mode .js-form-toggle-target input,
+.light-mode .js-profile-timeline-year-list .filter-list,
+.light-mode .contribution-activity-listing,
+.light-mode .contribution-activity-show-more,
+.light-mode #user-profile-frame div.flex-items-start input,
+.light-mode #user-profile-frame div.flex-items-start summary,
+.light-mode #user-repositories-list
 { box-shadow: 0 4px 6px #0002 }
 
-[data-color-mode="dark"] .application-main .Box,
-[data-color-mode="dark"] .avatar-user,
-[data-color-mode="dark"] .js-yearly-contributions > div > div,
-[data-color-mode="dark"] .js-form-toggle-target input,
-[data-color-mode="dark"] .js-profile-timeline-year-list .filter-list,
-[data-color-mode="dark"] .contribution-activity-listing,
-[data-color-mode="dark"] .contribution-activity-show-more,
-[data-color-mode="dark"] #user-profile-frame div.flex-items-start input,
-[data-color-mode="dark"] #user-profile-frame div.flex-items-start summary,
-[data-color-mode="dark"] #user-repositories-list
+.dark-mode .application-main .Box,
+.dark-mode .avatar-user,
+.dark-mode .js-yearly-contributions > div > div,
+.dark-mode .js-form-toggle-target input,
+.dark-mode .js-profile-timeline-year-list .filter-list,
+.dark-mode .contribution-activity-listing,
+.dark-mode .contribution-activity-show-more,
+.dark-mode #user-profile-frame div.flex-items-start input,
+.dark-mode #user-profile-frame div.flex-items-start summary,
+.dark-mode #user-repositories-list
 { box-shadow: 0 4px 6px #000a }
 
 #user-profile-frame > div > .Box
@@ -49,17 +49,17 @@ body
 	left: 0;
 	right: 0;
 	
-	background: no-repeat url("./nina%20iseri%20720p.webp");
+	background: no-repeat url("https://raw.githubusercontent.com/macimas/macimas/a55cb0f878e5821e81031fea552c0cd1e8f5adde/nina%20iseri%20720p.webp");
 	background-size: cover;
 	border-radius: var(--borderRadius-medium)
 }
 
-[data-color-mode="dark"] #user-profile-frame > div > .Box::after {
+.dark-mode #user-profile-frame > div > .Box::after {
 	filter: opacity(16%);
 	mix-blend-mode: lighten;
 }
 
-[data-color-mode="light"] #user-profile-frame > div > .Box::after {
+.light-mode #user-profile-frame > div > .Box::after {
 	box-shadow: inset 0 12px 16px #000;
 
 	filter: opacity(24%);
