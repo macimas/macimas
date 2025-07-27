@@ -1,5 +1,6 @@
-body
-{ background-image: url("https://raw.githubusercontent.com/macimas/macimas/a55cb0f878e5821e81031fea552c0cd1e8f5adde/earth.png") }
+body {
+	background-image: url("./assets/earth.png");
+}
 
 .avatar-user {
 	animation-name: spin;
@@ -22,8 +23,9 @@ body
 .light-mode .contribution-activity-show-more,
 .light-mode #user-profile-frame div.flex-items-start input,
 .light-mode #user-profile-frame div.flex-items-start summary,
-.light-mode #user-repositories-list
-{ box-shadow: 0 4px 6px #0002 }
+.light-mode #user-repositories-list {
+	box-shadow: 0 4px 6px #0002;
+}
 
 .dark-mode .application-main .Box,
 .dark-mode .avatar-user,
@@ -34,11 +36,13 @@ body
 .dark-mode .contribution-activity-show-more,
 .dark-mode #user-profile-frame div.flex-items-start input,
 .dark-mode #user-profile-frame div.flex-items-start summary,
-.dark-mode #user-repositories-list
-{ box-shadow: 0 4px 6px #000a }
+.dark-mode #user-repositories-list {
+	box-shadow: 0 4px 6px #000a;
+}
 
-#user-profile-frame > div > .Box
-{ position: relative }
+#user-profile-frame > div > .Box {
+	position: relative;
+}
 
 #user-profile-frame > div > .Box::after {
 	content: "";
@@ -49,7 +53,7 @@ body
 	left: 0;
 	right: 0;
 	
-	background: no-repeat url("https://raw.githubusercontent.com/macimas/macimas/a55cb0f878e5821e81031fea552c0cd1e8f5adde/nina%20iseri%20720p.webp");
+	background: no-repeat url("./assets/nina.webp");
 	background-size: cover;
 	border-radius: var(--borderRadius-medium)
 }
